@@ -11,7 +11,7 @@ Installation:
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/your-username/RIFT.git
+   git clone https://github.com/lj5619/RIFT-Hacktrix.git
 2. Open Google Chrome and navigate to chrome://extensions/.
 3. Enable Developer mode in the top right corner.
 4. Click on Load unpacked and select the folder where you cloned the RIFT repository.
