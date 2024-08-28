@@ -25,18 +25,18 @@ Usage:
 Customization:
 To customize the list of words to be filtered:
 
-Click on the RIFT icon in the toolbar.
-Go to Settings.
-Add or remove words from the list as needed.
-Save changes to update the filter in real-time.
-Contributing
-We welcome contributions to improve RIFT! Here's how you can contribute:
+1. Click on the RIFT icon in the toolbar.
+2. Go to Settings.
+3. Add or remove words from the list as needed.
+4. Save changes to update the filter in real-time.
 
-Fork the repository:
-Create a new branch (git checkout -b feature-branch).
-Make your changes and commit them (git commit -m 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Open a pull request.
+Contributing:
+We welcome contributions to improve RIFT! Here's how you can contribute
+1. Fork the repository
+2. Create a new branch (git checkout -b feature-branch).
+3. Make your changes and commit them (git commit -m 'Add new feature').
+4. Push to the branch (git push origin feature-branch).
+5. Open a pull request.
 
 Issues:
 If you encounter any issues or have suggestions for improvement, please open an issue in the GitHub Issues section.
